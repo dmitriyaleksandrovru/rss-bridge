@@ -13,3 +13,5 @@ Scmb
 Twitter
 Wikipedia
 Youtube
+Telegram
+Vk
